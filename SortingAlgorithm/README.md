@@ -1,6 +1,6 @@
 # Dual Sorting Algorithm Visualizer
 
-![](Sort.gif)
+![](src/main/resources/Sort.gif)
 
 
 # Overview
