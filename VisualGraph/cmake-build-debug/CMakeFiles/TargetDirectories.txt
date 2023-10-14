@@ -1,0 +1,3 @@
+/Users/user-1/CLionProjects/VisualGraph/cmake-build-debug/CMakeFiles/VisualGraph.dir
+/Users/user-1/CLionProjects/VisualGraph/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/user-1/CLionProjects/VisualGraph/cmake-build-debug/CMakeFiles/rebuild_cache.dir

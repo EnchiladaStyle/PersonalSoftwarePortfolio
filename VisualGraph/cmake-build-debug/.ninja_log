@@ -1,0 +1,9 @@
+# ninja log v5
+0	459	1696202658676066586	CMakeFiles/VisualGraph.dir/Function.cpp.o	39e5b888fb48e636
+0	467	1696202658681348464	CMakeFiles/VisualGraph.dir/Quadratic.cpp.o	29921ddf46ceda44
+0	475	1696202658684107340	CMakeFiles/VisualGraph.dir/Sin.cpp.o	8d15b2ad41b2bd0e
+1	476	1696202658692206761	CMakeFiles/VisualGraph.dir/Tan.cpp.o	b20f30f6c38c2aa9
+0	477	1696202658692450178	CMakeFiles/VisualGraph.dir/Linear.cpp.o	b7f5c29a6ffc6909
+0	479	1696202658697168264	CMakeFiles/VisualGraph.dir/main.cpp.o	898b8f61b97f6b70
+467	827	1696202659045710525	CMakeFiles/VisualGraph.dir/Display.cpp.o	11cd2435be037bcf
+461	835	1696202659053391654	CMakeFiles/VisualGraph.dir/AbsoluteValue.cpp.o	428d6d33287e07ff
