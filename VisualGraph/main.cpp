@@ -1,12 +1,12 @@
 #include <iostream>
-#include "Linear.h"
+#include "Classes/Linear.h"
 #include <stdlib.h>
-#include "Function.h"
-#include "Quadratic.h"
-#include "Sin.h"
-#include "Tan.h"
-#include "AbsoluteValue.h"
-#include "Display.h"
+#include "Classes/Function.h"
+#include "Classes/Quadratic.h"
+#include "Classes/Sin.h"
+#include "Classes/Tan.h"
+#include "Classes/AbsoluteValue.h"
+#include "Classes/Display.h"
 using namespace std;
 
 int main()
