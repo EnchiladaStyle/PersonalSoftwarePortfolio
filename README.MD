@@ -18,7 +18,7 @@ Full Stack Typing Practice Program: Records and displays typing speed and accura
 
 [Click here to learn about the Full Stack Typing Practice Program](./typing_project/)
 
-<img src="./Chimichanga/micah-images/webimg1.png" width=300><img src="./Chimichanga//micah-images/webimg2.png" width=300><img src="./Chimichanga//micah-images/webimg3.png" width=300>
+<img src="./Chimichanga/micah-images/webimg1.png" width=250><img src="./Chimichanga//micah-images/webimg2.png" width=250><img src="./Chimichanga//micah-images/webimg3.png" width=250>
 
 Graphic Design Portfolio Website: Showcases personal and professional work of a graphic designer.
 
