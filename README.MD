@@ -10,7 +10,7 @@ Sorting Algorithm Program: Written in Java. Lets the user choose between an asso
 
 Visual Graphing Calculator: Written in C++. Takes an equation as input and then displays the graph.
 
-[Click here to learn about the Visual Graphing Calculator](./VisualGraph/)
+[Click here to learn about the Visual Graphing Calculator](./GraphingCalculator/)
 
 <img src="./typing_project/typing_frontend/readmePhotos/keyboard.png" width=800>
 
