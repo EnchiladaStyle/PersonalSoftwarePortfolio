@@ -1,6 +1,7 @@
 # Personal Software Portfolio
 
 ![](SortingAlgorithm/src/main/resources/Sort.gif)
+
 Sorting Algorithm Program: Written in Java. Lets the user choose between an assortment of Algorithms to race against each other.
 
 [Click here to learn about the Sorting Algorithm Program](./SortingAlgorithm/)
