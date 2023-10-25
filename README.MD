@@ -6,7 +6,7 @@ Sorting Algorithm Program: Written in Java. Lets the user choose between an asso
 
 [Click here to learn about the Sorting Algorithm Program](./SortingAlgorithm/)
 
-<img src="./VisualGraph/photos/Sin.png" width=200><img src="./VisualGraph/photos/AbsoluteValue.png" width=200><img src="./VisualGraph/photos/Tangent.png" width=200><img src="./VisualGraph/photos/Quadratic.png" width=200>
+<img src="./GraphingCalculator/photos/Sin.png" width=200><img src="./GraphingCalculator/photos/AbsoluteValue.png" width=200><img src="./GraphingCalculator/photos/Tangent.png" width=200><img src="./GraphingCalculator/photos/Quadratic.png" width=200>
 
 Visual Graphing Calculator: Written in C++. Takes an equation as input and then displays the graph.
 
