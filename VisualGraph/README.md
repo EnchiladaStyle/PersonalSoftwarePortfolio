@@ -10,7 +10,7 @@ The purpose of this project was to demonstrate my skills with the C++ programmin
 
 The Code applies Object Oriented Programming concepts, such as Abstraction, Encapsulation, and Inheritance. It applies C++ best practices such as correct naming conventions and separating classes into files.
 
-[Software Demo Video](https://us06web.zoom.us/rec/share/TQbxlRHZlbh3cnXnR32Yl7WiIs1-0hBFCukIwdufct4IL8aFyOumgPv3XKQ8Qdr2.1NEbbDl5I8UEu2WM)
+[Software Demo Video](https://us06web.zoom.us/rec/share/YqVxKYFJ1pkpHedOYRGfWK72mYiph7xyRjjW_O6RvDqyYby64nobYXEJm1mKRITD.CpcUHFmE6bIQpR7C?startTime=1698197367000)
 
 # Development Environment
 

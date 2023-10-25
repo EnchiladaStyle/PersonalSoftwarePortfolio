@@ -1,0 +1,152 @@
+#main {
+    
+    text-align: center;
+    
+    
+    
+}
+
+#display-and-input {
+    background-color: aqua;
+    width: 80%;
+    height: 200px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: sans-serif;
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+#quote {
+    display: block;
+    text-align: left;
+    margin-left: 14.5%;
+    margin-right: 14.5%;
+    
+}
+
+#text {
+    display: block;
+    margin-left: 14.5%;
+    width: 70%;
+    height: 100px;
+    margin-left: 14.5%;
+    
+}
+
+textarea {
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+#stats {
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+
+    
+}
+
+#time-display {
+    background-color: lightgreen;
+    width: 25%;
+    height: 50px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    
+    
+}
+
+#errors-display {
+    background-color: lightpink;
+    width: 25%;
+    height: 50px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+
+}
+
+button {
+    height: 40px;
+    width: auto;
+    background-color: aquamarine;
+    margin-top: 20px;
+}
+
+#keyboard {
+    display: block;
+    width: 55%;
+    margin-left: 23%;
+    margin-right: 20%;
+}
+
+#keyboard img {
+    width: 100%;
+    
+}
+
+nav {
+    line-height: 2em;
+    text-align: center;
+    font-size: 1.2em;
+    background-color: aqua;
+  }
+  nav  {
+    list-style-type: none;
+    display: flex;
+  
+  }
+
+  .topLink {
+    margin-left: 20px;
+    
+    padding: 2px;
+    background-color: rgb(247, 200, 118);
+    border-radius: 10px;
+    text-decoration: none;
+    text-decoration: none;
+    color:black;;
+  }
+
+.name {
+    margin-bottom: 1px;
+    margin-top: 1px;
+    margin-left: 29%;
+
+}
+
+.personal_best {
+    margin-bottom: 1px;
+    margin-top: 1px;
+    margin-right: 10px;
+    margin-left: 25%;
+}
+
+.credentials_div {
+    width: 50%;
+    height: 50%;
+    padding: 10px;
+    border: 10px solid;
+
+    margin: auto;
+    text-align: center;
+}
+
+.usernameBox {
+    margin: auto;
+    padding: 10%;
+}
+
+.passwordBox {
+    margin: auto;
+    padding: 10%;
+}
+
+.submitButton {
+    margin: auto;
+    margin-bottom: 20%;
+    
+}
+
+

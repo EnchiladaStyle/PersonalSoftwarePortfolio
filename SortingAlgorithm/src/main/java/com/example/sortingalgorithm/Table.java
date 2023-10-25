@@ -57,7 +57,7 @@ public class Table {
     public void sort(Algorithm algo){
 
             Timeline line = new Timeline(new KeyFrame(Duration.seconds(.01), e->{
-                algo.sort(nodes, this);
+                algo.sort(nodes, this); //calls sort
             }));
 
             line.setCycleCount(1);
