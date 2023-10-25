@@ -1,6 +1,6 @@
 # Full Stack Typing Practice Web App
 
-<img src="./typing_frontend/readmePhotos/keyboard.png" width=200>
+<img src="./typing_frontend/readmePhotos/keyboard.png" width=800>
 
 # Overview
 
