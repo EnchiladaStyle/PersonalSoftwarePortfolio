@@ -13,6 +13,7 @@ I wrote this software to demonstrate my understanding of API development, User I
 # Web Pages
 
 The program is made up of four pages. Sign Up, Sign In, ScoreBoard, and Keyboard. Once a user signs up, they can sign in to view their personal stats and attempt to beat their record. They can also view the ScoreBoard which displays the scores of all users with the best performers at the top.
+
 <img src="./typing_frontend/readmePhotos/keyboard.png" width=200>
 <img src="./typing_frontend/readmePhotos/signup.png" width=200>
 <img src="./typing_frontend/readmePhotos/signin.png" width=200>
