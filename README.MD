@@ -30,8 +30,8 @@ Python/Markdown Data Structures Tutorial: Teaches the user how to implement data
 
 [Click here to learn about the Python/Markdown Data Structures Tutorial](./DataStructuresTutorial/)
 
-<img src="./PythonNumberConverter//Screen Shot 2023-10-24 at 11.00.12 PM.png" width=400>
+<img src="./OnlineGraphingCalculator/graphingfrontend/pictures/GraphingMix.png" width=250><img src="./OnlineGraphingCalculator/graphingfrontend/pictures/GaphingLinear.png" width=250><img src="./OnlineGraphingCalculator/graphingfrontend/pictures/GraphingQuadratic.png" width=250>
 
-Python Number Converter: Takes a number as input in either Base 10, Binary, or Hexidecimal. It then displays the number in all three forms.
+Online Graphing Calculator: Allows users to graph their equations, and also sign in to view and manage previous work. Uses React and Node.
 
-[Click here to learn about the Python Number Converter Program](./PythonNumberConverter/)
+[Click here to learn about the Online Graphing Calculator](./OnlineGraphingCalculator/)

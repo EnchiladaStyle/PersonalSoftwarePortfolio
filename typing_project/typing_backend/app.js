@@ -18,4 +18,4 @@ app.use('/scoreBoard', scoreBoardRoute);
 
 
 
-module.exports = app;
+module.exports = app; 
