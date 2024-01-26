@@ -1,0 +1,3 @@
+[submodule "GraphingFrontend"]
+	path = GraphingFrontend
+	url = ./ReactGraphingCalculator/GraphingFrontend
