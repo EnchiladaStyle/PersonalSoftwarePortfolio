@@ -1,3 +1,4 @@
 {
-  "cmake.sourceDirectory": "/Users/user-1/Desktop/PersonalSoftwarePortfolio/GraphingCalculator/CompilerStuff"
+  "cmake.sourceDirectory": "/Users/user-1/Desktop/PersonalSoftwarePortfolio/GraphingCalculator/CompilerStuff",
+  "java.compile.nullAnalysis.mode": "automatic"
 }
