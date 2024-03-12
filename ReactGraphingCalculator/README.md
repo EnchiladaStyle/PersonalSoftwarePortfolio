@@ -1,9 +1,9 @@
 # Online Graphing Calculator
 
-<img src="./graphingfrontend/pictures/GraphingMix.png" width=800>
-<img src="./graphingfrontend/pictures/GraphingQuadratic.png" width=800>
-<img src="./graphingfrontend/pictures/GaphingLinear.png" width=800>
-<img src="./graphingfrontend/pictures/GraphingTan.png" width=800>
+<img src="./graphingbackend/pictures/GraphingMix.png" width=800>
+<img src="./graphingbackend/pictures/GraphingQuadratic.png" width=800>
+<img src="./graphingbackend/pictures/GaphingLinear.png" width=800>
+<img src="./graphingbackend/pictures/GraphingTan.png" width=800>
 
 # Overview
 
@@ -17,8 +17,8 @@ I wrote this software to demonstrate my understanding of Full stack development,
 
 The program is made up of three pages. Sign Up, Sign In, and Home. Any user can graph equations on the home page, but equations can only be saved if the user creates an account and signs in. After signing in, the user can view all previous work saved to their account. They can also delete graphs they are done using.
 
-<img src="./graphingfrontend/pictures/GraphingMenu.png" width=200>
-<img src="./graphingfrontend/pictures/GraphingSignIn.png" width=200>
+<img src="./graphingbackend/pictures/GraphingMenu.png" width=200>
+<img src="./graphingbackend/pictures/GraphingSignIn.png" width=200>
 
 
 # Development Environment
