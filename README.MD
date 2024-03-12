@@ -30,7 +30,7 @@ Python/Markdown Data Structures Tutorial: Teaches the user how to implement data
 
 [Click here to learn about the Python/Markdown Data Structures Tutorial](./DataStructuresTutorial/)
 
-<img src="./OnlineGraphingCalculator/graphingfrontend/pictures/GraphingMix.png" width=250><img src="./OnlineGraphingCalculator/graphingfrontend/pictures/GaphingLinear.png" width=250><img src="./OnlineGraphingCalculator/graphingfrontend/pictures/GraphingQuadratic.png" width=250>
+<img src="./ReactGraphingCalculator/graphingbackend/pictures/GraphingMix.png" width=250><img src="./ReactGraphingCalculator/graphingbackend/pictures/GaphingLinear.png" width=250><img src="./ReactGraphingCalculator/GraphingBackend/pictures/GraphingQuadratic.png" width=250>
 
 Online Graphing Calculator: Allows users to graph their equations, and also sign in to view and manage previous work. Uses React and Node.
 
