@@ -299,5 +299,5 @@ discoTimes = {
 }
 
 taquanTimes = {
-    
+    "Dock 1": dock1Times["Taquan"],
 }
