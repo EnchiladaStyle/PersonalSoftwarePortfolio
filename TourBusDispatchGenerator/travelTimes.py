@@ -297,3 +297,7 @@ discoTimes = {
     "Lighthouse": 25,
     "Cambria": 20
 }
+
+taquanTimes = {
+    
+}
