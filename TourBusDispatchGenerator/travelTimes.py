@@ -307,4 +307,5 @@ taquanTimes = {
     "Lumberjack": lumberjackTimes["Taquan"],
     "George Inlet": georgeInletTimes["Taquan"],
     "Cannery": canneryTimes["Taquan"],
+    "Rainforest": rainforestTimes["Taquan"],
 }
