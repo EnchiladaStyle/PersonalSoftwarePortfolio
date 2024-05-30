@@ -318,4 +318,5 @@ taquanTimes = {
     "Adventure Carts": 35,
     "Knudson": 35,
     "Clover Pass": 40,
+    "Totem Byte": 30,
 }
