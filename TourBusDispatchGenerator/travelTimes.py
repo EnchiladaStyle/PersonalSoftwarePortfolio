@@ -316,4 +316,5 @@ taquanTimes = {
     "Harriot Hunt": 45,
     "White River": 50,
     "Adventure Carts": 35,
+    "Knudson": 35,
 }
