@@ -314,4 +314,5 @@ taquanTimes = {
     "Taquan": 0,
     "Jeep Base": 15,
     "Harriot Hunt": 45,
+    "White River": 50,
 }
