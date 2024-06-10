@@ -348,3 +348,7 @@ jeepBaseTimes = {
     "Cambria": 15
 
 }
+
+harriotHuntTimes = {
+    
+}
