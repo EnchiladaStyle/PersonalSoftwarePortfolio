@@ -352,5 +352,5 @@ jeepBaseTimes = {
 harriotHuntTimes = {
     "Ward Cove": wardCoveTimes["Harriot Hunt"],
     "Dock 2": dock2Times["Harriot Hunt"],
-
+    "Dock 1": dock1Times["Harriot Hunt"],
 }
