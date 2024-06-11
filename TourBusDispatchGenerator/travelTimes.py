@@ -350,5 +350,6 @@ jeepBaseTimes = {
 }
 
 harriotHuntTimes = {
-    
+    "Ward Cove": wardCoveTimes["Harriot Hunt"],
+
 }
