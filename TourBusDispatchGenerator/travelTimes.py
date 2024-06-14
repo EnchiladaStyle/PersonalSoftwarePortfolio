@@ -368,4 +368,5 @@ harriotHuntTimes = {
     "White River": 20,
     "Adventure Carts": 40,
     "Knudson": 50,
+    "Clover Pass": 50,
 }
