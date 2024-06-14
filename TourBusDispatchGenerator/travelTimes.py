@@ -369,4 +369,5 @@ harriotHuntTimes = {
     "Adventure Carts": 40,
     "Knudson": 50,
     "Clover Pass": 50,
+    "Totem Byte": 40,
 }
