@@ -381,5 +381,6 @@ whiteRiverTimes = {
     "Dock 3": dock3Times["White River"],
     "Dock 4": dock4Times["White River"],
     "Lumberjack": lumberjackTimes["White River"],
+    "George Inlet": georgeInletTimes["White River"],
 
 }
