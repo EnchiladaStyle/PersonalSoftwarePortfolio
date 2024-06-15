@@ -376,5 +376,6 @@ harriotHuntTimes = {
 
 whiteRiverTimes = {
     "Ward Cove": wardCoveTimes["White River"],
+    "Dock 2": dock2Times["White River"],
 
 }
