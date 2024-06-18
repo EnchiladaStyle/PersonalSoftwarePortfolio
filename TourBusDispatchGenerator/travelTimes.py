@@ -384,5 +384,6 @@ whiteRiverTimes = {
     "George Inlet": georgeInletTimes["White River"],
     "Cannery": canneryTimes["White River"],
     "Rainforest": rainforestTimes["White River"],
+    "Cape Fox Lodge": cfLodgeTimes["White River"],
 
 }
