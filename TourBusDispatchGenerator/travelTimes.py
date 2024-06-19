@@ -385,5 +385,6 @@ whiteRiverTimes = {
     "Cannery": canneryTimes["White River"],
     "Rainforest": rainforestTimes["White River"],
     "Cape Fox Lodge": cfLodgeTimes["White River"],
+    "Saxmon": saxmonTimes["White River"],
 
 }
