@@ -389,5 +389,6 @@ whiteRiverTimes = {
     "Disco": discoTimes["White River"],
     "Taquan": taquanTimes["White River"],
     "Jeep Base": jeepBaseTimes["White River"],
+    "Harriot Hunt": harriotHuntTimes["White River"],
 
 }
