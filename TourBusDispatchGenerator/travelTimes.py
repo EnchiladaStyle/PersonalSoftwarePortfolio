@@ -393,5 +393,6 @@ whiteRiverTimes = {
     "White River": 0,
     "Adventure Carts": 50,
     "Knudson": 60,
+    "Clover Pass": 60,
 
 }
