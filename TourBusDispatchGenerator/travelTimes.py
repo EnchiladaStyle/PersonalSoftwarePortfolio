@@ -392,5 +392,6 @@ whiteRiverTimes = {
     "Harriot Hunt": harriotHuntTimes["White River"],
     "White River": 0,
     "Adventure Carts": 50,
+    "Knudson": 60,
 
 }
