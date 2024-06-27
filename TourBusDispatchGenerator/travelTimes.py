@@ -394,5 +394,6 @@ whiteRiverTimes = {
     "Adventure Carts": 50,
     "Knudson": 60,
     "Clover Pass": 60,
+    "Totem Byte": 50,
 
 }
