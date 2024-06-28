@@ -401,5 +401,6 @@ whiteRiverTimes = {
 
 whiteRiverTimes = {
     "Ward Cove": wardCoveTimes["Adventure Carts"],
+    "Dock 2": dock2Times["Adventure Carts"],
 
 }
