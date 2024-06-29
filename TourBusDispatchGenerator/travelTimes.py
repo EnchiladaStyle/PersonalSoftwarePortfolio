@@ -399,7 +399,7 @@ whiteRiverTimes = {
     "Cambria": 50
 }
 
-whiteRiverTimes = {
+adventureCartsTimes = {
     "Ward Cove": wardCoveTimes["Adventure Carts"],
     "Dock 2": dock2Times["Adventure Carts"],
     "Dock 1": dock1Times["Adventure Carts"],
