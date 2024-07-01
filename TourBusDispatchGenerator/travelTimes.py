@@ -410,5 +410,6 @@ adventureCartsTimes = {
     "Rainforest": rainforestTimes["Adventure Carts"],
     "Cape Fox Lodge": cfLodgeTimes["Adventure Carts"],
     "Saxmon": saxmonTimes["Adventure Carts"],
+    "Disco": discoTimes["Adventure Carts"],
 
 }
