@@ -415,5 +415,6 @@ adventureCartsTimes = {
     "Jeep Base": jeepBaseTimes["Adventure Carts"],
     "Harriot Hunt": harriotHuntTimes["Adventure Carts"],
     "White River": whiteRiverTimes["Adventure Carts"],
+    "Adventure Carts": 0,
 
 }
