@@ -417,5 +417,6 @@ adventureCartsTimes = {
     "White River": whiteRiverTimes["Adventure Carts"],
     "Adventure Carts": 0,
     "Knudson": 30,
+    "Clover Pass": 40,
 
 }
