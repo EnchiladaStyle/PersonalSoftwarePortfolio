@@ -6,6 +6,12 @@ Sorting Algorithm Program: Written in Java. Lets the user choose between an asso
 
 [Click here to learn about the Sorting Algorithm Program](./SortingAlgorithm/)
 
+<img src="./TourBusDispatchGenerator/officialLogo.ico" width=200>
+
+Tour Bus Dispatch Generator: Built for a real tour bus company in Alaska. Solves the Vehicle Routing Problem with time window, vehicle capacity, and pickup/delivery constraints. Created with Google OR Tools, SQLite, Microsoft Excel, openPyXL, and wxPython. Deployed with pyInstaller
+
+[Click here to learn about the Tour Bus Dispatch Generator](./TourBusDispatchGenerator)
+
 <img src="./GraphingCalculator/photos/Sin.png" width=200><img src="./GraphingCalculator/photos/AbsoluteValue.png" width=200><img src="./GraphingCalculator/photos/Tangent.png" width=200><img src="./GraphingCalculator/photos/Quadratic.png" width=200>
 
 Visual Graphing Calculator: Written in C++. Takes an equation as input and then displays the graph.
