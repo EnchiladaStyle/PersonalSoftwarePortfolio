@@ -1,7 +1,6 @@
 
 
 jeepBaseTimes = {
-    "Dock 2": dock2Times["Jeep Base"],
     "Dock 1": dock1Times["Jeep Base"],
     "Dock 3": dock3Times["Jeep Base"],
     "Dock 4": dock4Times["Jeep Base"],
