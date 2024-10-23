@@ -7,6 +7,13 @@ Written in Java. Lets the user choose between an assortment of Algorithms to rac
 
 [Click here to learn about the Sorting Algorithm Program](./SortingAlgorithm/)
 
+# Multithreaded Maze Solver:
+![](mazeSolver/pictures/mazeGif.gif)
+
+Written in Java. Lets the user choose between an assortment of Algorithms to race against each other.
+
+[Click here to learn about the Sorting Algorithm Program](./SortingAlgorithm/)
+
 # Tour Bus Dispatch Generator:
 <img src="./TourBusDispatchGenerator/officialLogo.ico" width=200>
 
