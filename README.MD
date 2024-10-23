@@ -10,9 +10,9 @@ Written in Java. Lets the user choose between an assortment of Algorithms to rac
 # Multithreaded Maze Solver:
 ![](mazeSolver/pictures/mazeGif.gif)
 
-Written in Java. Lets the user choose between an assortment of Algorithms to race against each other.
+Written in C++. Uses multithreading to search multiple paths at once.
 
-[Click here to learn about the Sorting Algorithm Program](./SortingAlgorithm/)
+[Click here to learn about the Multithreaded Maze Solver](./mazeSolver/)
 
 # Tour Bus Dispatch Generator:
 <img src="./TourBusDispatchGenerator/officialLogo.ico" width=200>
