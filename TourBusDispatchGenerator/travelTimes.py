@@ -1,7 +1,6 @@
 
 
 jeepBaseTimes = {
-    "Cape Fox Lodge": cfLodgeTimes["Jeep Base"],
     "Saxmon": saxmonTimes["Jeep Base"],
     "Disco": discoTimes["Jeep Base"],
     "Taquan": taquanTimes["Jeep Base"],
