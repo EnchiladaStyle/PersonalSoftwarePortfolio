@@ -1,7 +1,6 @@
 
 
 jeepBaseTimes = {
-    "Harriot Hunt": 30,
     "White River": 45,
     "Adventure Carts": 30,
     "Knudson": 30,
