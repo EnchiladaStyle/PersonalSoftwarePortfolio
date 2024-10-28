@@ -1,7 +1,6 @@
 
 
 jeepBaseTimes = {
-    "White River": 45,
     "Adventure Carts": 30,
     "Knudson": 30,
     "Clover Pass": 35,
