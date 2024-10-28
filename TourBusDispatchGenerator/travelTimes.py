@@ -1,8 +1,6 @@
 
 
 jeepBaseTimes = {
-    "Taquan": taquanTimes["Jeep Base"],
-    "Jeep Base": 0,
     "Harriot Hunt": 30,
     "White River": 45,
     "Adventure Carts": 30,
