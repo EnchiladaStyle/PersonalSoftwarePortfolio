@@ -1,7 +1,6 @@
 
 
 jeepBaseTimes = {
-    "Knudson": 30,
     "Clover Pass": 35,
     "Totem Byte": 25,
     "Lighthouse": 7,
