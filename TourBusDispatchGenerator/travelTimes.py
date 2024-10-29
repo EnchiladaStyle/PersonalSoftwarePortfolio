@@ -1,7 +1,6 @@
 
 
 jeepBaseTimes = {
-    "Totem Byte": 25,
     "Lighthouse": 7,
     "Cambria": 15
 
