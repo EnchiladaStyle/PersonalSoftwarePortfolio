@@ -1,7 +1,6 @@
 
 
 jeepBaseTimes = {
-    "Cambria": 15
 
 }
 
