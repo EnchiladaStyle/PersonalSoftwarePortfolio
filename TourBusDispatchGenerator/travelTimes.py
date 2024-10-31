@@ -1,7 +1,6 @@
 
 
 harriotHuntTimes = {
-    "Cannery": canneryTimes["Harriot Hunt"],
     "Rainforest": rainforestTimes["Harriot Hunt"],
     "Cape Fox Lodge": cfLodgeTimes["Harriot Hunt"],
     "Saxmon": saxmonTimes["Harriot Hunt"],
