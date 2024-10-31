@@ -1,7 +1,6 @@
 
 
 jeepBaseTimes = {
-    "Lighthouse": 7,
     "Cambria": 15
 
 }
