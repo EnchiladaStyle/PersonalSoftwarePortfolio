@@ -1,7 +1,6 @@
 
 
 harriotHuntTimes = {
-    "Harriot Hunt": 0,
     "White River": 20,
     "Adventure Carts": 40,
     "Knudson": 50,
