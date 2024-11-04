@@ -1,7 +1,7 @@
 
 
 harriotHuntTimes = {
-    "Knudson": 50,
+
     "Clover Pass": 50,
     "Totem Byte": 40,
     "Lighthouse": 30,
