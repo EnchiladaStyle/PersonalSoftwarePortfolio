@@ -2,7 +2,6 @@
 
 harriotHuntTimes = {
 
-    "Lighthouse": 30,
     "Cambria": 45
 }
 
