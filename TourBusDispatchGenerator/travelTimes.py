@@ -2,7 +2,6 @@
 
 harriotHuntTimes = {
 
-    "Cambria": 45
 }
 
 whiteRiverTimes = {
