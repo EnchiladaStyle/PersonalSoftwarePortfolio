@@ -1,7 +1,6 @@
 
 
 whiteRiverTimes = {
-    "Saxmon": saxmonTimes["White River"],
     "Disco": discoTimes["White River"],
     "Taquan": taquanTimes["White River"],
     "Jeep Base": jeepBaseTimes["White River"],
