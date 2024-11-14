@@ -2,7 +2,6 @@
 
 whiteRiverTimes = {
     
-    "Jeep Base": jeepBaseTimes["White River"],
     "Harriot Hunt": harriotHuntTimes["White River"],
     "White River": 0,
     "Adventure Carts": 50,
