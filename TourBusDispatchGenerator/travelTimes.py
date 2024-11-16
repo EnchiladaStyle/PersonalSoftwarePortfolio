@@ -2,7 +2,6 @@
 
 whiteRiverTimes = {
     
-    "Clover Pass": 60,
     "Totem Byte": 50,
     "Lighthouse": 45,
     "Cambria": 50
