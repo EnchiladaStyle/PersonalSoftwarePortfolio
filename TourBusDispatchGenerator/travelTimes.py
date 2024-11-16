@@ -1,8 +1,6 @@
 
 
 whiteRiverTimes = {
-    
-    "Totem Byte": 50,
     "Lighthouse": 45,
     "Cambria": 50
 }
