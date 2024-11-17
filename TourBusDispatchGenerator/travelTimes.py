@@ -1,7 +1,6 @@
 
 
 whiteRiverTimes = {
-    "Lighthouse": 45,
     "Cambria": 50
 }
 
