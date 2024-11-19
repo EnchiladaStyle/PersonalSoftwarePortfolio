@@ -1,7 +1,6 @@
 
 
 adventureCartsTimes = {
-    "Ward Cove": wardCoveTimes["Adventure Carts"],
     "Dock 2": dock2Times["Adventure Carts"],
     "Dock 1": dock1Times["Adventure Carts"],
     "Dock 3": dock3Times["Adventure Carts"],
