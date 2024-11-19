@@ -1,7 +1,7 @@
 
 
 whiteRiverTimes = {
-    "Cambria": 50
+
 }
 
 adventureCartsTimes = {
