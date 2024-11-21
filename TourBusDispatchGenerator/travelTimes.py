@@ -1,7 +1,6 @@
 
 
 adventureCartsTimes = {
-    "Dock 4": dock4Times["Adventure Carts"],
     "Lumberjack": lumberjackTimes["Adventure Carts"],
     "Cannery": canneryTimes["Adventure Carts"],
     "Rainforest": rainforestTimes["Adventure Carts"],
