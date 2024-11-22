@@ -1,7 +1,6 @@
 
 
 adventureCartsTimes = {
-    "Taquan": taquanTimes["Adventure Carts"],
     "Jeep Base": jeepBaseTimes["Adventure Carts"],
     "Harriot Hunt": harriotHuntTimes["Adventure Carts"],
     "White River": whiteRiverTimes["Adventure Carts"],
