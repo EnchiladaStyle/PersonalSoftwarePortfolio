@@ -1,7 +1,7 @@
 
 
 adventureCartsTimes = {
-    "Harriot Hunt": harriotHuntTimes["Adventure Carts"],
+
     "White River": whiteRiverTimes["Adventure Carts"],
     "Adventure Carts": 0,
     "Knudson": 30,
