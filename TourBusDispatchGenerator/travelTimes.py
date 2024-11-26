@@ -2,7 +2,6 @@
 
 adventureCartsTimes = {
 
-    "Clover Pass": 40,
     "Totem Byte": 25,
     "Lighthouse": 5,
     "Cambria": 35
