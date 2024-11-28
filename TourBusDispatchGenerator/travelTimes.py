@@ -1,6 +1,5 @@
 adventureCartsTimes = {
 
-    
 }
 
 knudsonTimes = {
