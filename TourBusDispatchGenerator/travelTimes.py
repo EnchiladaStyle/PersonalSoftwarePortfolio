@@ -1,4 +1,3 @@
-
 adventureCartsTimes = {
 
     "Cambria": 35
