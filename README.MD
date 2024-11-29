@@ -10,7 +10,7 @@ Written in Java. Lets the user choose between an assortment of Algorithms to rac
 # Multithreaded Maze Solver:
 ![](mazeSolver/pictures/mazeGif.gif)
 
-Written in C++. Uses multithreading to search multiple paths at once.
+Written in C++. Uses multithreading to search multiple paths at once. Marks the correct path when found.
 
 [Click here to learn about the Multithreaded Maze Solver](./mazeSolver/)
 
