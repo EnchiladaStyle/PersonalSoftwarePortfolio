@@ -38,7 +38,7 @@ Full stack web application. Records and displays typing speed and accuracy. Save
 # Graphic Design Portfolio Website:
 <img src="./Chimichanga/micah-images/webimg1.png" width=250><img src="./Chimichanga//micah-images/webimg2.png" width=250><img src="./Chimichanga//micah-images/webimg3.png" width=250>
 
-Showcases personal and professional work of a graphic designer.
+One of my first projects. I built this for my brother. It Showcases his personal and professional work as a graphic designer.
 
 [Click here to learn about the Graphic Design Portfolio Website](./Chimichanga/)
 
