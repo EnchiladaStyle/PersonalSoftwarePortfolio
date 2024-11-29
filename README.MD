@@ -31,7 +31,7 @@ Written in C++. Takes an equation as input and then displays the graph.
 # Typing Practice Program:
 <img src="./typing_project/typing_frontend/readmePhotos/keyboard.png" width=800>
 
-Records and displays typing speed and accuracy. Saves User data into a database and allows users to sign in to view previous stats and compete with others
+Full stack web application. Records and displays typing speed and accuracy. Saves User data into a database and allows users to sign in to view previous stats and compete with others
 
 [Click here to learn about the Full Stack Typing Practice Program](./typing_project/)
 
