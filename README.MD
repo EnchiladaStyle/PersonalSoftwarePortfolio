@@ -1,4 +1,5 @@
 # Personal Software Portfolio
+A collection of some of my favorite projects. View code and video demonstrations by clicking the links.
 
 # Sorting Algorithm Program:
 ![](SortingAlgorithm/src/main/resources/Sort.gif)
