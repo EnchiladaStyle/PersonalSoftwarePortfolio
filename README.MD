@@ -43,13 +43,6 @@ One of my first projects. I built this for my brother. It Showcases his personal
 
 [Click here to learn about the Graphic Design Portfolio Website](./Chimichanga/)
 
-# Data Structures Tutorial:
-<img src="./DataStructuresTutorial/pictures/Screen Shot 2023-10-24 at 11.33.38 PM.png" width=500>
-
-Teaches the user how to implement data structures in Python.
-
-[Click here to learn about the Python/Markdown Data Structures Tutorial](./DataStructuresTutorial/)
-
 # Online Graphing Calculator:
 <img src="./ReactGraphingCalculator/GraphingBackend/pictures/GraphingMix.png" width=250><img src="./ReactGraphingCalculator/GraphingBackend/pictures/GaphingLinear.png" width=250><img src="./ReactGraphingCalculator/GraphingBackend/pictures/GraphingQuadratic.png" width=250>
 
