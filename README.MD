@@ -1,7 +1,7 @@
 # Personal Software Portfolio
 A collection of some of my favorite projects. View code and video demonstrations by clicking the links.
 
-# Sorting Algorithm Program:
+# Sorting Algorithm Animator:
 ![](SortingAlgorithm/src/main/resources/Sort.gif)
 
 Written in Java. Lets the user choose between an assortment of Algorithms to race against each other.
