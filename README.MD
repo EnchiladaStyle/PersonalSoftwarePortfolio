@@ -22,7 +22,7 @@ Built for a real tour bus company in Alaska. Solves the Vehicle Routing Problem 
 
 [Click here to learn about the Tour Bus Dispatch Generator](./TourBusDispatchGenerator)
 
-# Visual Graphing Calculator:
+# Desktop Graphing Calculator:
 <img src="./GraphingCalculator/photos/Sin.png" width=200><img src="./GraphingCalculator/photos/AbsoluteValue.png" width=200><img src="./GraphingCalculator/photos/Tangent.png" width=200><img src="./GraphingCalculator/photos/Quadratic.png" width=200>
 
 Written in C++. Takes an equation as input and then displays the graph.
