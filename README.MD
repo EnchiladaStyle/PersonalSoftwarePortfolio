@@ -29,7 +29,7 @@ Written in C++. Takes an equation as input and then displays the graph.
 
 [Click here to learn about the Visual Graphing Calculator](./GraphingCalculator/)
 
-# Typing Practice Program:
+# Typing Practice Web Application:
 <img src="./typing_project/typing_frontend/readmePhotos/keyboard.png" width=800>
 
 Full stack web application. Records and displays typing speed and accuracy. Saves User data into a database and allows users to sign in to view previous stats and compete with others
