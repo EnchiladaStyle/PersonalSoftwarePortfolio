@@ -43,7 +43,7 @@ One of my first projects. I built this for my brother. It Showcases his personal
 
 [Click here to learn about the Graphic Design Portfolio Website](./Chimichanga/)
 
-# Online Graphing Calculator:
+# Full Stack Graphing Calculator:
 <img src="./ReactGraphingCalculator/GraphingBackend/pictures/GraphingMix.png" width=250><img src="./ReactGraphingCalculator/GraphingBackend/pictures/GaphingLinear.png" width=250><img src="./ReactGraphingCalculator/GraphingBackend/pictures/GraphingQuadratic.png" width=250>
 
 Allows users to graph their equations, and also sign in to view and manage previous work. Uses React and Node.
