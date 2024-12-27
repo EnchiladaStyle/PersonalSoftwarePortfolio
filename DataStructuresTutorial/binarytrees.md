@@ -1,15 +1,5 @@
 
 
-```python
-
-class Node:
-    def __init__(self, data):
-        self.data = data
-        self.left = None
-        self.right = None
-
-```
-
 This code can only be used through the insert method described below.
 
 ## Inserting into a Binary Search Tree
