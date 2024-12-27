@@ -1,5 +1,4 @@
-# Binary Trees
-A binary tree is made up of nodes. You can visualize it as a family tree flipped upside down. Each family member in a family tree has two parents, who in turn have two parents each. In a binary tree, each parent node has to children, who in turn can each have two children. Each node in a binary tree is a little packet of information that includes data and two pointers to other nodes. The tree starts with a single node, which can branch out into many. Just like a linked list, a program can iterate through a binary tree. Binary search trees use this structure and organize the data for optimal searching. Each child node in a binary search tree is either placed to the left of its parent if the value is smaller, or to the right of the parent if the value is larger.
+
 
 ## Binary Tree Class
 Classes are used to create binary trees. The code below creates a new tree and sets the root to None
