@@ -1,7 +1,4 @@
 
-    if not repeat:
-        listened.append(song)
-
 def listenToPreviousSong():
     prev = listened.pop()
     play(prev, True)
