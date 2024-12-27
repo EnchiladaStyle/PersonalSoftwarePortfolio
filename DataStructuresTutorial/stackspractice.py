@@ -1,11 +1,5 @@
 
 
-def listen():
-    #this function mimics a music app playing a random song from the playlist
-    if len(listened2) == 0:
-        play(random.choice(playList))
-    else:
-        play(listened2.pop())
 
 def play(song, repeat=False):
     #this function displays which song is being played
