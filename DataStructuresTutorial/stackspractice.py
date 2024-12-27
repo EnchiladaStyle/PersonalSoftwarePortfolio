@@ -1,10 +1,7 @@
 
 
 
-def play(song, repeat=False):
-    #this function displays which song is being played
-    #it also records the current song into a stack if the song is not being replayed
-    
+
     
     
     
