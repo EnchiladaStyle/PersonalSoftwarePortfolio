@@ -1,4 +1,3 @@
-import random
 
 #playList represents an actual playlist in a program like spotify or apple music
 #listened is an empty list that will be used as a stack to keep track of which songs have been played
