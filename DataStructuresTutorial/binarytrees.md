@@ -1,11 +1,4 @@
 
-
-To use this code, make an instance of the class.
-
-```python
-tree = BinaryTree()
-```
-
 ## Node class
 
 The code below should be nested inside of the Binary Tree class. It creates a new node within the tree and sets the right and left pointers to none.
