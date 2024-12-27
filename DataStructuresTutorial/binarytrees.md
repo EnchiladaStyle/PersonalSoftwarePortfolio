@@ -1,16 +1,5 @@
 
 
-
-
-```python
-
-class BinaryTree:
-
-    def __init__(self):
-        self.root = None
-
-```
-
 To use this code, make an instance of the class.
 
 ```python
