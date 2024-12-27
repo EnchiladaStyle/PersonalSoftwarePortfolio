@@ -1,12 +1,4 @@
 
-
-
-
-    
-    
-    
-    print(f"playing: {song}")
-    
     if not repeat:
         listened.append(song)
 
