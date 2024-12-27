@@ -1,7 +1,6 @@
 
 
-## Binary Tree Class
-Classes are used to create binary trees. The code below creates a new tree and sets the root to None
+
 
 ```python
 
