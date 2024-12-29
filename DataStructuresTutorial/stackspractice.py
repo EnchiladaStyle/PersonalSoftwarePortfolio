@@ -1,5 +1,5 @@
 
-def listenToPreviousSong():
+
     prev = listened.pop()
     play(prev, True)
     listened2.append(prev)
