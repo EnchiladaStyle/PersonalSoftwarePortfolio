@@ -1,7 +1,6 @@
 
 
 
-    play(prev, True)
     listened2.append(prev)
 
 listen()
