@@ -1,9 +1,7 @@
 
 
 
-    listened2.append(prev)
 
-listen()
 listen()
 listen()
 listen()
