@@ -1,7 +1,4 @@
 
-listen()
-listen()
-
 print("done")
 listenToPreviousSong()
 listenToPreviousSong()
