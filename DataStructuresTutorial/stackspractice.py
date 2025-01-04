@@ -1,7 +1,4 @@
 
-print("done")
-listenToPreviousSong()
-listenToPreviousSong()
 listenToPreviousSong()
 listenToPreviousSong()
 listenToPreviousSong()
