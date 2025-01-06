@@ -1,5 +1,4 @@
 
-listenToPreviousSong()
 print("done")
 listen()
 listen()
