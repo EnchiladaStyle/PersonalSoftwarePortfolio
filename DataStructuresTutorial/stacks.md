@@ -1,5 +1,5 @@
 
-## Add to Stack
+
 to add to a stack in python, we add to the end of the list using the append function.
 
 ```python
