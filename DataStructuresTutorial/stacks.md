@@ -1,8 +1,5 @@
 
 
-
-
-```
 the above code adds "1" to the end of the list
 
 ## Remove From Stack
