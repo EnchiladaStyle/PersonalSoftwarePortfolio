@@ -1,5 +1,4 @@
 
-A stack is a data structure that only allows elements to be added and taken away off the top. It is the last in first out data structure. 
 Imagine a refrigerator crammed with food all the way to the back. In order to get the milk at the back of the refrigerator, you need to remove everything that comes before it, starting with the most recently added item. If you want to put another item in the refrigerator, you will need to put it in front of everything that has been added. This is how a stack works in computer science.
 A stack is useful when a program needs to keep track of which items went in last. It is also very efficient because adding or taking away from a stack has a time complexity of O(1).
 A stack in python can be created using a list.
