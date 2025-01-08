@@ -1,7 +1,4 @@
 
-
-the above code adds "1" to the end of the list
-
 ## Remove From Stack
 to remove from a stack in python, we remove the end using the pop function.
 
