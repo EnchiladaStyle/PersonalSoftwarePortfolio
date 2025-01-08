@@ -1,8 +1,7 @@
 
 
 
-stackList.append(1)
-# Time complexity: O(1)
+
 ```
 the above code adds "1" to the end of the list
 
