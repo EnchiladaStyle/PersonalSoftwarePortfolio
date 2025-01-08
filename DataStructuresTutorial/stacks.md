@@ -1,5 +1,5 @@
 
-A stack is useful when a program needs to keep track of which items went in last. It is also very efficient because adding or taking away from a stack has a time complexity of O(1).
+taking away from a stack has a time complexity of O(1).
 A stack in python can be created using a list.
 
 ## Add to Stack
