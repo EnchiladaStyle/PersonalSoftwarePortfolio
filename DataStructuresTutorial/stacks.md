@@ -1,7 +1,4 @@
 
-taking away from a stack has a time complexity of O(1).
-A stack in python can be created using a list.
-
 ## Add to Stack
 to add to a stack in python, we add to the end of the list using the append function.
 
