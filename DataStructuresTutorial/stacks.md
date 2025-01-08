@@ -1,8 +1,6 @@
 
 
 
-```python
-stackList = []
 stackList.append(1)
 # Time complexity: O(1)
 ```
