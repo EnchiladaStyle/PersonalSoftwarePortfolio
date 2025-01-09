@@ -1,5 +1,4 @@
 
-```python
 stackList = [1]
 stackList.pop()
 # Time complexity: O(1)
