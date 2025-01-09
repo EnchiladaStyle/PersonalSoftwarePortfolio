@@ -1,5 +1,4 @@
 
-## Remove From Stack
 to remove from a stack in python, we remove the end using the pop function.
 
 ```python
