@@ -1,8 +1,4 @@
 
-
-stackList.pop()
-# Time complexity: O(1)
-```
 the above code removes "1" from the list.
 
 
