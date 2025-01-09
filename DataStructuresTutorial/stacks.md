@@ -1,4 +1,3 @@
-pop function.
 
 ```python
 stackList = [1]
