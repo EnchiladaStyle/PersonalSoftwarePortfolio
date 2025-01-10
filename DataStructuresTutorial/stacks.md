@@ -1,7 +1,4 @@
 
-the above code removes "1" from the list.
-
-
 ## Example Problem
 
 The program below uses a stack to keep track of songs played from a playlist and allow replay functionality.
