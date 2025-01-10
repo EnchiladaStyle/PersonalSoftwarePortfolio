@@ -1,6 +1,5 @@
 
 
-#listened is an empty list that will be used as a stack to keep track of which songs have been played
 playList = ["Take On Me", "Sweet Home Alabama", "What Does the Fox Say?", "Heyah", "I'm Blue", "Bad Romance", "Shake It Off", "Moskau"]
 listened = []
 
