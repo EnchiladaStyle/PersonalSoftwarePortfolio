@@ -1,4 +1,3 @@
-uses a stack to keep track of songs played from a playlist and allow replay functionality.
 
 ```python
 #playList represents an actual playlist in a program like spotify or apple music
