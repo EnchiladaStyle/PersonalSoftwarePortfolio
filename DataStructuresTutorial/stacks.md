@@ -1,4 +1,4 @@
-Fox Say?", "Heyah", "I'm Blue", "Bad Romance", "Shake It Off", "Moskau"]
+
 listened = []
 
 def listen():
