@@ -1,5 +1,3 @@
- from the playlist
-    play(random.choice(playList))
 
 def play(song, repeat=False):
     #this function displays which song is being played
