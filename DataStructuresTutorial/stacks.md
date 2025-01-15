@@ -1,5 +1,4 @@
-def listen():
-    #this function mimics a music app playing a random song from the playlist
+ from the playlist
     play(random.choice(playList))
 
 def play(song, repeat=False):
