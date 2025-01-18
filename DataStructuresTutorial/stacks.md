@@ -1,5 +1,4 @@
 
-def listenToPreviousSong():
     prev = listened.pop()
     play(prev, True)
     # Time complexity: O(1)
