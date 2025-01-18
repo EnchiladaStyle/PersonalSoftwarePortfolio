@@ -1,5 +1,5 @@
 
-    #it also records the current song into a stack if the song is not being replayed
+ is not being replayed
     print(f"playing: {song}")
     
     if not repeat:
