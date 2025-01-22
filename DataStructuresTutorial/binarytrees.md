@@ -1,6 +1,4 @@
-
-
-This code can only be used through the insert method described below.
+through the insert method described below.
 
 ## Inserting into a Binary Search Tree
 
