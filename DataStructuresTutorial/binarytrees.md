@@ -1,4 +1,4 @@
-through the insert method described below.
+method described below.
 
 ## Inserting into a Binary Search Tree
 
