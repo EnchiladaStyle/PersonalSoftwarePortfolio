@@ -1,4 +1,3 @@
-method described below.
 
 ## Inserting into a Binary Search Tree
 
