@@ -1,4 +1,4 @@
- Binary Tree class. the insert() fuction is used to put data into the tree. First it checks to see if the tree is empty. If it is, then it creates a new node and sets it as the root of the tree. Otherwise, it calls the findPlace() function.
+used to put data into the tree. First it checks to see if the tree is empty. If it is, then it creates a new node and sets it as the root of the tree. Otherwise, it calls the findPlace() function.
 
 ```python
 
