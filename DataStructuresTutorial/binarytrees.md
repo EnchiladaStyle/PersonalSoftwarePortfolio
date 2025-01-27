@@ -1,6 +1,4 @@
-() function.
 
-```python
 
 def insert(self, data):
         
