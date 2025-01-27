@@ -1,7 +1,4 @@
 
-
-def insert(self, data):
-        
         if self.root is None:
             self.root = BinaryTree.Node(data)
         else:
