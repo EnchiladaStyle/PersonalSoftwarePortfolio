@@ -1,4 +1,4 @@
-tree is empty. If it is, then it creates a new node and sets it as the root of the tree. Otherwise, it calls the findPlace() function.
+it as the root of the tree. Otherwise, it calls the findPlace() function.
 
 ```python
 
