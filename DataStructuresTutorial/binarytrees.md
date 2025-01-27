@@ -1,5 +1,4 @@
 
-        if self.root is None:
             self.root = BinaryTree.Node(data)
         else:
             self.findPlace(data, self.root)
