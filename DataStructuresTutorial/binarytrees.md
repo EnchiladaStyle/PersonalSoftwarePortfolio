@@ -1,4 +1,4 @@
-it as the root of the tree. Otherwise, it calls the findPlace() function.
+() function.
 
 ```python
 
