@@ -1,4 +1,4 @@
-belongs on the left or the right of the current Node. It then searches for an empty slot to store that data using recursion. When it finds an empty slot, it creates a new node in that spot. This creates a binary search tree by ensuring that the nodes are correctly placed based on their data.
+in that spot. This creates a binary search tree by ensuring that the nodes are correctly placed based on their data.
 
 ```python
 
