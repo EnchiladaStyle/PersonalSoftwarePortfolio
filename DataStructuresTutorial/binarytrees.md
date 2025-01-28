@@ -1,6 +1,4 @@
 
-            self.root = BinaryTree.Node(data)
-        else:
             self.findPlace(data, self.root)
 
 
