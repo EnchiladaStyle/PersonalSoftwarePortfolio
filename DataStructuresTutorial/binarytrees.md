@@ -1,5 +1,4 @@
 
-        elif node.data < data:
             if node.right is None:
                 node.right = self.Node(data)
             else:
