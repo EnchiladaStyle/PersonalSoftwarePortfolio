@@ -1,4 +1,3 @@
-in that spot. This creates a binary search tree by ensuring that the nodes are correctly placed based on their data.
 
 ```python
 
