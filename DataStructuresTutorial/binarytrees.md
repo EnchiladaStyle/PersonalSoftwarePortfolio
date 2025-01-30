@@ -1,8 +1,4 @@
 
-```python
-tree.insert(data)
-```
-
 ## Searching Within a Binary Search Tree
 
 The function below searches the binary tree for a given value. It starts by checking if the current node contains the target value, returning True if it does. Next it determines whether the next node to check will be on the left or the right. If the next node is empty, It will return False, showing that the target value is not in the binary tree. Otherwise, it will use recursion to check the next node.
