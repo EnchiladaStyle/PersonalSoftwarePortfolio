@@ -1,7 +1,4 @@
 
-            return
-
-        if node.data > data:
             if node.left is None:
                 node.left = self.Node(data)
             else:
