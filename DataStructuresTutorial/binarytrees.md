@@ -1,7 +1,4 @@
 
-    def findPlace(self, data, node):
-
-        if data == node.data:
             return
 
         if node.data > data:
