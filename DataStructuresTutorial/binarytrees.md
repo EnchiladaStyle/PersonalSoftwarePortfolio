@@ -1,6 +1,4 @@
 
-```python
-
     def findPlace(self, data, node):
 
         if data == node.data:
