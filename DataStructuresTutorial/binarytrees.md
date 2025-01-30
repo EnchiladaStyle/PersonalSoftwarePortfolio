@@ -1,7 +1,4 @@
 
-            else:
-                self.findPlace(node.right)
-
     # Time complexity: O(logN)
 
 ```
