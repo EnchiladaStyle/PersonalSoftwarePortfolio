@@ -1,7 +1,4 @@
 
-
-Use the two functions above by calling the insert method through the instance of BinaryTree. Make sure to include data as a parameter.
-
 ```python
 tree.insert(data)
 ```
