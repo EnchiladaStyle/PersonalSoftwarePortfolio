@@ -1,6 +1,4 @@
 
-            if node.left is None:
-                node.left = self.Node(data)
             else:
                 self.findPlace(node.left)
             
