@@ -1,6 +1,4 @@
 
-            if node.right is None:
-                return False
             
             return self.contains(data, node.right)
 
