@@ -1,8 +1,4 @@
 
-
-def contains(self, data, node):
-        
-        if node.data == data:
             return True
 
         if data <= node.data:
