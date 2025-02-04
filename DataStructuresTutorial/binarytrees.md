@@ -1,6 +1,4 @@
-target value is not in the binary tree. Otherwise, it will use recursion to check the next node.
 
-```python
 
 def contains(self, data, node):
         
