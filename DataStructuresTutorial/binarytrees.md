@@ -1,7 +1,4 @@
 
-            return True
-
-        if data <= node.data:
             if node.left is None:
                 return False
             
