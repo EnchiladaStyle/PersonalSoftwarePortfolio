@@ -1,8 +1,4 @@
 
-            
-            return self.contains(data, node.right)
-
-    # Time complexity: O(logN)
 
 ```
 
