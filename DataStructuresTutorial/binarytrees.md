@@ -1,8 +1,4 @@
-
-
-```
-
- In a balanced Tree, this function will have a time complexity of O(logN), because it will eliminate half of the remaining nodes each time it runs.
+the remaining nodes each time it runs.
  Use this code by calling the method. Make sure to include a target value and the root node as arguments.
 
 ```python
