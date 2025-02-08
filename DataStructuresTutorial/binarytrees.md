@@ -1,8 +1,4 @@
 
-
- ```python
-
-def __iter__(self):
         
         yield from self._traverse_forward(self.root)
         
