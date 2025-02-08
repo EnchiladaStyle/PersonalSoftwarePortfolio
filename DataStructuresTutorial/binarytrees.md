@@ -1,9 +1,4 @@
 
-        
-        yield from self._traverse_forward(self.root)
-        
-def _traverse_forward(self, node):
-        
     if node is not None:
         yield from self._traverse_forward(node.left)
         yield node.data
