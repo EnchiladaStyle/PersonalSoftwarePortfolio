@@ -1,6 +1,4 @@
 
-        yield node.data
-        yield from self._traverse_forward(node.right)
 
     # Time complexity: O(N)
 
