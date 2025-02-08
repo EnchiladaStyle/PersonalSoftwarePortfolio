@@ -1,9 +1,5 @@
 
 
-```python
-tree.contains(value, tree.root) 
-```
-
  ## Traversing a Binary Tree
 
  The functions below work together to iterate through the entire binary tree and return the value of each node. yield is used to continue in that part of the function each time it is called in a loop. 
