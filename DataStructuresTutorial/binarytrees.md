@@ -1,5 +1,4 @@
-the remaining nodes each time it runs.
- Use this code by calling the method. Make sure to include a target value and the root node as arguments.
+
 
 ```python
 tree.contains(value, tree.root) 
