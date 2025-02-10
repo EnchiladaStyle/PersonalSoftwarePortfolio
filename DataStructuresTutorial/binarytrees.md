@@ -1,9 +1,5 @@
 
 
-    # Time complexity: O(N)
-
- ```
-
  To use these functions, call iter() in a for loop.
 
  ```python
