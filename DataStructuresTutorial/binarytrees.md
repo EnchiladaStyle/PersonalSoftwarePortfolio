@@ -1,8 +1,4 @@
 
-
- To use these functions, call iter() in a for loop.
-
- ```python
 for i in iter(tree):
     print(i)
  ```
