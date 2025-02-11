@@ -1,6 +1,4 @@
 
-            self.rating = rating
-            self.name = name
             self.left = None
             self.right = None
 
