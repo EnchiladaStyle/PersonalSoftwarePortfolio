@@ -1,9 +1,5 @@
 
 
-## Example Problem
-
-The linked list below simulates a playlist in a music app. Each node contains the name of a song, and a number rating. New songs are inserted based on their rating, to ensure that the tree can be used as a binary search tree.
-
 ```python
 
 class PlayList:
