@@ -1,7 +1,4 @@
 
-for i in iter(tree):
-    print(i)
- ```
 
 ## Example Problem
 
