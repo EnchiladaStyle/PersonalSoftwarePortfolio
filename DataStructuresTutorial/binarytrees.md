@@ -1,8 +1,5 @@
 
 
-    def __init__(self):
-        self.root = None
-
     class Song:
         def __init__(self, name, rating):
             self.rating = rating
