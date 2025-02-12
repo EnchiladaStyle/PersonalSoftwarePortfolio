@@ -1,7 +1,4 @@
 
-        if song.rating > rating:
-            if song.left is None:
-                song.left = self.Song(name, rating)
             else:
                 self.findPlace(name, rating, song.left)
             
