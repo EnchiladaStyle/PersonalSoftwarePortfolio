@@ -1,6 +1,4 @@
 
-            self.left = None
-            self.right = None
 
     def insert(self, name, rating):
         
