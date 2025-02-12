@@ -1,8 +1,4 @@
 
-
-        if rating == song.rating:
-            return
-
         if song.rating > rating:
             if song.left is None:
                 song.left = self.Song(name, rating)
