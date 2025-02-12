@@ -1,11 +1,5 @@
 
             else:
-                self.findPlace(name, rating, song.left)
-            
-        elif song.rating < rating:
-            if song.right is None:
-                song.right = self.Song(name, rating)
-            else:
                 self.findPlace(name, rating, song.right)
 
         # Time complexity: O(logN)
