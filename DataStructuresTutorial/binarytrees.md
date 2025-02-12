@@ -1,8 +1,4 @@
 
-            self.findPlace(name, rating, self.root)
-        
-
-    def findPlace(self, name, rating, song):
 
         if rating == song.rating:
             return
