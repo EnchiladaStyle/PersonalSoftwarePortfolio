@@ -1,10 +1,4 @@
 
-
-    def insert(self, name, rating):
-        
-        if self.root is None:
-            self.root = PlayList.Song(name, rating)
-        else:
             self.findPlace(name, rating, self.root)
         
 
