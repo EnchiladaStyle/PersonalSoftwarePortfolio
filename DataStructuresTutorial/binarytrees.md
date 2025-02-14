@@ -1,8 +1,4 @@
 
-        # Time complexity: O(logN)
-
-```
-
 Let's say We had the following list of songs and ratings and we needed to insert it into the playlist. {"Moskau": 1, "Heyah": 2, "Sweet Home Alabama": 3, "Bad Romance": 4, Take On Me": 5, "I'm Blue": 6, "What Does the Fox Say?": 7, "Shake it Off": 8}
 In order to make it a balanced tree, with optimal search performance, we will need to insert each song in the correct order. below is one way of inserting the data manually in the correct order.
 
