@@ -1,8 +1,4 @@
 
-
-myPlaylist.insert("Take On Me", 5)
-myPlaylist.insert("Sweet Home Alabama", 3)
-myPlaylist.insert("What Does the Fox Say?", 7)
 myPlaylist.insert("Heyah", 2)
 myPlaylist.insert("I'm Blue", 6)
 myPlaylist.insert("Bad Romance", 4)
