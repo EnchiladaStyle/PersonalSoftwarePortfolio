@@ -1,6 +1,4 @@
 
-myPlaylist.insert("Heyah", 2)
-myPlaylist.insert("I'm Blue", 6)
 myPlaylist.insert("Bad Romance", 4)
 myPlaylist.insert("Shake it Off", 8)
 myPlaylist.insert("Moskau", 1)
