@@ -1,7 +1,4 @@
 
-            else:
-                self.findPlace(name, rating, song.right)
-
         # Time complexity: O(logN)
 
 ```
