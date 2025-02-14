@@ -1,9 +1,5 @@
 
 
-```python
-
-myPlaylist = PlayList()
-
 myPlaylist.insert("Take On Me", 5)
 myPlaylist.insert("Sweet Home Alabama", 3)
 myPlaylist.insert("What Does the Fox Say?", 7)
