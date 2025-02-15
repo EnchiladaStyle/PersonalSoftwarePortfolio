@@ -1,7 +1,4 @@
 
-myPlaylist.insert("Bad Romance", 4)
-myPlaylist.insert("Shake it Off", 8)
-myPlaylist.insert("Moskau", 1)
 
 ```
 
