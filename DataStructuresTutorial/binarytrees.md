@@ -1,8 +1,4 @@
-
-
-```
-
-Inserting in this order makes a balanced tree. Notice how if the song with the rating of 1 was inserted first, that song would become the root, and all the other songs would end up on the right side. That would produce an inbalanced tree, which would not be optimal for searching. This shows that order is important when inserting data into a binary search tree.
+that song would become the root, and all the other songs would end up on the right side. That would produce an inbalanced tree, which would not be optimal for searching. This shows that order is important when inserting data into a binary search tree.
 
 ## Coding Challenge
 
