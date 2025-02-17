@@ -1,4 +1,4 @@
-that song would become the root, and all the other songs would end up on the right side. That would produce an inbalanced tree, which would not be optimal for searching. This shows that order is important when inserting data into a binary search tree.
+data into a binary search tree.
 
 ## Coding Challenge
 
