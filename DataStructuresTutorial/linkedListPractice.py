@@ -1,30 +1,4 @@
-class LinkedList:
-        
-    def __init__(self):
-        
-        self.head = None
-        self.tail = None
 
-    class Node:
-        
-        def __init__(self, data):
-            
-            self.data = data
-            self.next = None
-            self.prev = None
-
-    def insert_head(self, value):
-        
-        new_node = LinkedList.Node(value)  
-        
-        if self.head is None:
-            self.head = new_node
-            self.tail = new_node
-        
-        else:
-            new_node.next = self.head
-            self.head.prev = new_node
-            self.head = new_node
 
     def insert_tail(self, value):
         
