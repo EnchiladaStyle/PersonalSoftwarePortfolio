@@ -1,13 +1,4 @@
 
-    def remove_head(self):
-        
-        if self.head == self.tail:
-            self.head = None
-            self.tail = None
-        
-        elif self.head is not None:
-            self.head.next.prev = None  
-            self.head = self.head.next
 
     def remove_tail(self):
         
