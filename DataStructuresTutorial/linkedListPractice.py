@@ -1,13 +1,4 @@
 
-
-    def remove_tail(self):
-        
-        self.tail.prev.next = None
-        self.tail = self.tail.prev
-
-    def forward(self):
-        list1 = []
-        current = self.head
         while current != None:
             list1.append(current.data)
             current = current.next
