@@ -1,9 +1,4 @@
 
-        while current != None:
-            list1.append(current.data)
-            current = current.next
-        return list1
-
     def __reversed__(self):
         
         list1 = []
