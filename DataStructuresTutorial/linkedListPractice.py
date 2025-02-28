@@ -1,12 +1,4 @@
 
-    def __reversed__(self):
-        
-        list1 = []
-        current = self.tail
-        while current != None:
-            list1.append(current.data)
-            current = current.prev
-        return list1
     
     def addSong(self, song):
         
