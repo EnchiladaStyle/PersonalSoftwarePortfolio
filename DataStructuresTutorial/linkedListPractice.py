@@ -1,10 +1,4 @@
 
-    
-    def addSong(self, song):
-        
-        current = self.head
-        while current != None:
-            if current.data == song:
                 
 
                 if current.prev != None:
