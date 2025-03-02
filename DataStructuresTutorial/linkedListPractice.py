@@ -1,8 +1,5 @@
 
-                
 
-                if current.prev != None:
-                    current.prev.next = current.next
                 else:
                     self.head = current.next
                     break
