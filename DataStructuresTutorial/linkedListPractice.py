@@ -1,11 +1,4 @@
 
-
-                else:
-                    self.head = current.next
-                    break
-                if current.next != None:
-                    current.next.prev = current.prev
-                break
         
             current = current.next
 
