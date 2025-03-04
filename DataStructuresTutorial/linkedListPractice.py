@@ -1,10 +1,4 @@
 
-        
-            current = current.next
-
-        
-        playList.insert_tail(song)
-    
 playList = LinkedList()
 
 songs = ["Take On Me", "Sweet Home Alabama", "What Does the Fox Say?", "Heyah", "I'm Blue", "Bad Romance", "Shake It Off", "Moskau"]
