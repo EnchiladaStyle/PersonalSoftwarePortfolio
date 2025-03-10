@@ -1,7 +1,4 @@
-# Linked List
-A linked list is a connection of nodes. Similar to a scavenger hunt, each node leads the program to the next node until it reaches the end. 
-The first node in the linked list is called the Head. The last node in the linked list is called the Tail. Each node in the linked list contains data, and points to two other nodes, Previous and Next. Previous for the head is Null. Next for the Tail is Null.
-Because the data is organized in this way, it can be iterated through using a loop either from start to end, or end to start.
+
 
 ## Linked List Class
 Classes are used to create a linked list. 
