@@ -1,10 +1,4 @@
 
-
-## Linked List Class
-Classes are used to create a linked list. 
-The code below writes the new linked list. The default values for Head and tail are set to None.
-
-
 ```python
 
     
