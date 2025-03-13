@@ -1,7 +1,4 @@
 
-
-to activate a new linked list, make a new instance of the class.
-
 ```python
 newInstance = LinkedList()
 ```
