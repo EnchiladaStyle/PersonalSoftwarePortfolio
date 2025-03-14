@@ -1,9 +1,4 @@
 
-```python
-newInstance = LinkedList()
-```
-
-the code below should be written within the LinkedList class. It writes a new node, setting Next and Prev to None. Data is required as a parameter.
 ```python     
         class Node:
         
