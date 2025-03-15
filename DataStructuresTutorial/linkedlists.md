@@ -1,13 +1,4 @@
 
-```python     
-        class Node:
-        
-            def __init__(self, data):
-            
-            self.data = data
-            self.next = None
-            self.prev = None
-```
 
 this functionality can only be accessed through an insert method shown below.
 
