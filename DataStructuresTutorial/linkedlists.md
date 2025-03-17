@@ -1,8 +1,5 @@
 
 
-this functionality can only be accessed through an insert method shown below.
-
-
 ## Insert at Head
 the code below enitiates a new node and inserts it at the head. It starts by checking if the linked list is empty. If it is, then the new node is written as both the head and tail of the list.
 
