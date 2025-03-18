@@ -1,9 +1,4 @@
-both the head and tail of the list.
 
-```python
-def insert_head(self, value):
-        
-        new_node = LinkedList.Node(value)  
         
         if self.head is None:
             self.head = new_node
