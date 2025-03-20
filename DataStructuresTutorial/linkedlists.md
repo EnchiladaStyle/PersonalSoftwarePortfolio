@@ -1,11 +1,4 @@
 
-        else:
-            new_node.next = self.head
-            self.head.prev = new_node
-            self.head = new_node
-    
-    # Time complexity: O(1)
-```
 
 To utilize the above code, call the method through the instance of the LinkedList class. Make sure to pass data to the parameter.
 
