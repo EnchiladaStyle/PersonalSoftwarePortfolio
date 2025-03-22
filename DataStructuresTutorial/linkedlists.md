@@ -1,8 +1,4 @@
 
-
-To utilize the above code, call the method through the instance of the LinkedList class. Make sure to pass data to the parameter.
-
-
 ```python
 newInstance.insert_head(value)
 ```
