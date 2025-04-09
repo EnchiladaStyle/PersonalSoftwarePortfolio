@@ -50,6 +50,12 @@ Allows users to graph their equations, and also sign in to view and manage previ
 
 [Click here to learn about the Online Graphing Calculator](./OnlineGraphingCalculator/)
 
+
+## Fruit Store
+<img src="./FruitStoreWebApp/fruitStoreFrontend/pictures/frontEndPic.png" width=800>
+
+Allows users to create an account, sign in, and add to their shopping carts.
+
 ## Graphic Design Portfolio Website:
 <img src="./Chimichanga/micah-images/webimg1.png" width=250><img src="./Chimichanga//micah-images/webimg2.png" width=250><img src="./Chimichanga//micah-images/webimg3.png" width=250>
 
